@@ -1,0 +1,9 @@
+{
+    "mappings": {
+        "bfsword": 1,
+        "arrow": 2,
+        "stone": 3,
+        "water": 4,
+        "chainmail": 5
+    }
+}

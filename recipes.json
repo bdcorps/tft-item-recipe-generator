@@ -1,0 +1,11 @@
+{
+    "recipes": {
+        "bfsword": {
+            "chainmail": "lol",
+            "arrow": "runnan"
+        },
+        "arrow": {
+            "stone": "water"
+        }
+    }
+}
