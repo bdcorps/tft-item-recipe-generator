@@ -1,9 +1,13 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+  <a href="https://david-dm.org/bdcorps/tft-item-recipe-generator">
+    <img src="https://david-dm.org/bdcorps/tft-item-recipe-generator.svg" alt="Dependency Status" />
+  </a>
 [![LinkedIn][linkedin-shield]][linkedin-url]
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/bdcorps/tft-item-recipe-generator">
-    <img src="public/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/bdcorps/tft-item-recipe-generator"> 
+    <img src="https://dummyimage.com/150x150/0366d6/000000.png&text=TFT+Generator" alt="Logo" width="150" height="150">
   </a>
 
   <h3 align="center">TFT Item Recipe Generator</h3>
