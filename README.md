@@ -1,4 +1,3 @@
-[![Website][website-shield]][website-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 <!-- PROJECT LOGO -->
 <br />
@@ -32,9 +31,6 @@ git clone https://github.com/bdcorps/tft-item-recipe-generator.git
 
 Distributed under the MIT License
 
-
-[website-shield]: https://img.shields.io/website?down_message=down&up_message=up&url=http%3A%2F%2Fsukhpalsaini.io
-[website-url]: https://sukhpalsaini.io
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/sukhpal-saini/
 [product-screenshot]: screenshots/screenshot1.PNG
