@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/bdcorps/tft-item-recipe-generator"> 
-    <img src="https://dummyimage.com/150x150/0366d6/000000.png&text=TFT+Generator" alt="Logo" width="150" height="150">
+    <img src="https://dummyimage.com/150x150/0366d6/ffffff.png&text=TFT+Generator" alt="Logo" width="150" height="150">
   </a>
 
   <h3 align="center">TFT Item Recipe Generator</h3>
